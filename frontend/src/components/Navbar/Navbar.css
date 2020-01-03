@@ -1,0 +1,17 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+
+.navbar a {
+    font-size: 11pt;
+    text-decoration: none;
+    color: black;
+    margin-right: 12px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
