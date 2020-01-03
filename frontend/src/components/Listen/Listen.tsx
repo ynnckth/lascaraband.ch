@@ -10,12 +10,13 @@ const Listen: React.FC = () => {
     <div className="listen">
       <h1>Listen</h1>
 
-      <iframe
-        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsuperscaras%2Fvideos%2F657849404639648%2F&show_text=0&width=560"
-        className="facebook-embedded-video"
-        width="560" height="315" scrolling="no" frameBorder="0"
-        >
-      </iframe>
+      <div className="fb-video-wrapper">
+        <iframe
+          src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsuperscaras%2Fvideos%2F657849404639648%2F&show_text=0&width=560"
+          className="fb-video"
+          scrolling="no" frameBorder="0">
+        </iframe>
+      </div>
     </div>
   );
 };
