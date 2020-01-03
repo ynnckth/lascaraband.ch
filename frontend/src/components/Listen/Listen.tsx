@@ -8,7 +8,8 @@ import React from 'react';
 const Listen: React.FC = () => {
   return (
     <div className="listen">
-      coming soon...
+      <h1>Upcoming gigs</h1>
+      <p>coming soon...</p>
     </div>
   );
 };

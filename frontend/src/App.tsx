@@ -7,8 +7,9 @@ import Home from './components/Home/Home';
 import Gigs from './components/Gigs/Gigs';
 import Listen from './components/Listen/Listen';
 import Footer from './components/Footer/Footer';
-import Infos from './components/Infos/Infos';
+import About from './components/About/About';
 import Gallery from './components/Gallery/Gallery';
+import Booking from './components/Booking/Booking';
 
 
 const App: React.FC = () => {
@@ -17,12 +18,31 @@ const App: React.FC = () => {
       <Header/>
       <Navbar/>
 
+      {/* TODO: fix show home if unknown route */}
       <HashRouter>
-        <Route path="/" exact component={Home}/>
-        <Route path="/listen" component={Listen}/>
-        <Route path="/gigs" component={Gigs}/>
-        <Route path="/gallery" component={Gallery}/>
-        <Route path="/infos" component={Infos}/>
+        <Route path="/listen">
+          <Listen/>
+        </Route>
+
+        <Route path="/gigs">
+          <Gigs showPastGigs={true}/>
+        </Route>
+
+        <Route path="/gallery">
+          <Gallery/>
+        </Route>
+
+        <Route path="/about">
+          <About/>
+        </Route>
+
+        <Route path="/booking">
+          <Booking/>
+        </Route>
+
+        <Route path="/" exact>
+          <Home/>
+        </Route>
       </HashRouter>
 
       <Footer/>
