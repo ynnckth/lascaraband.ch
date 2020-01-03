@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/scara/static/css/main.9e25dc99.chunk.css",
-    "main.js": "/scara/static/js/main.554d1a8e.chunk.js",
-    "main.js.map": "/scara/static/js/main.554d1a8e.chunk.js.map",
+    "main.css": "/scara/static/css/main.a99f9ee9.chunk.css",
+    "main.js": "/scara/static/js/main.283cbec6.chunk.js",
+    "main.js.map": "/scara/static/js/main.283cbec6.chunk.js.map",
     "runtime-main.js": "/scara/static/js/runtime-main.260a6f02.js",
     "runtime-main.js.map": "/scara/static/js/runtime-main.260a6f02.js.map",
     "static/js/2.cda0cb3f.chunk.js": "/scara/static/js/2.cda0cb3f.chunk.js",
     "static/js/2.cda0cb3f.chunk.js.map": "/scara/static/js/2.cda0cb3f.chunk.js.map",
     "index.html": "/scara/index.html",
-    "precache-manifest.f8a69132c09a0311a398447e0bd8e595.js": "/scara/precache-manifest.f8a69132c09a0311a398447e0bd8e595.js",
+    "precache-manifest.b7bbd49470604410006ab7f03d351849.js": "/scara/precache-manifest.b7bbd49470604410006ab7f03d351849.js",
     "service-worker.js": "/scara/service-worker.js",
-    "static/css/main.9e25dc99.chunk.css.map": "/scara/static/css/main.9e25dc99.chunk.css.map",
+    "static/css/main.a99f9ee9.chunk.css.map": "/scara/static/css/main.a99f9ee9.chunk.css.map",
     "static/js/2.cda0cb3f.chunk.js.LICENSE": "/scara/static/js/2.cda0cb3f.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.260a6f02.js",
     "static/js/2.cda0cb3f.chunk.js",
-    "static/css/main.9e25dc99.chunk.css",
-    "static/js/main.554d1a8e.chunk.js"
+    "static/css/main.a99f9ee9.chunk.css",
+    "static/js/main.283cbec6.chunk.js"
   ]
 }

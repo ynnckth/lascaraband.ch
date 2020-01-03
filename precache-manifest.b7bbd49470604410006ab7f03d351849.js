@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e2003f811d6c2f1e910b5ef3544bacf",
+    "revision": "bc74dc6368ce8a9f977fc376db6f5db5",
     "url": "/scara/index.html"
   },
   {
-    "revision": "f8fe12aa2b59e7099c4d",
-    "url": "/scara/static/css/main.9e25dc99.chunk.css"
+    "revision": "52b918309edfcff558e4",
+    "url": "/scara/static/css/main.a99f9ee9.chunk.css"
   },
   {
     "revision": "2bc14625c5c4d543e32c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scara/static/js/2.cda0cb3f.chunk.js.LICENSE"
   },
   {
-    "revision": "f8fe12aa2b59e7099c4d",
-    "url": "/scara/static/js/main.554d1a8e.chunk.js"
+    "revision": "52b918309edfcff558e4",
+    "url": "/scara/static/js/main.283cbec6.chunk.js"
   },
   {
     "revision": "e4a6d87e476cd0a3dc6e",
