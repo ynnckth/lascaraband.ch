@@ -21,7 +21,7 @@ const Gallery: React.FC = () => {
         {thumbnails.map((thumb, idx) =>
           <div key={idx} className="thumb">
             <a href={images[idx]} data-lightbox="mygallery">
-              <img src={thumb} alt="image"/>
+              <img src={thumb} alt="scara-pic"/>
             </a>
           </div>
         )}
