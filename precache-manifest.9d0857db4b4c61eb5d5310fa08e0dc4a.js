@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1612aac0441ae00139a0dd32af4040f9",
+    "revision": "c3bb4a7035afb4a228ef9ac094d58627",
     "url": "/lascaraband.ch/index.html"
   },
   {
-    "revision": "77d612f4618e8579990e",
-    "url": "/lascaraband.ch/static/css/main.5b18d80e.chunk.css"
+    "revision": "ff706ca0e424982f783b",
+    "url": "/lascaraband.ch/static/css/main.dffda4c5.chunk.css"
   },
   {
     "revision": "8d0da6c5387f28f934a9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lascaraband.ch/static/js/2.0806a642.chunk.js.LICENSE"
   },
   {
-    "revision": "77d612f4618e8579990e",
-    "url": "/lascaraband.ch/static/js/main.1658084d.chunk.js"
+    "revision": "ff706ca0e424982f783b",
+    "url": "/lascaraband.ch/static/js/main.e6035dd2.chunk.js"
   },
   {
     "revision": "1884c98368f8820db030",
