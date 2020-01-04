@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d4041b5d831c3e0d2bf827c2afd00b9",
+    "revision": "e86773a096cd9b908d1ce163c22c22b1",
     "url": "/scara/index.html"
   },
   {
-    "revision": "9eeb36cb8b85539c62a5",
-    "url": "/scara/static/css/main.2a9f36bd.chunk.css"
+    "revision": "5a28e30ecab731934a22",
+    "url": "/scara/static/css/main.5b18d80e.chunk.css"
   },
   {
-    "revision": "788a677d159f3c109cde",
-    "url": "/scara/static/js/2.b2ef4b2f.chunk.js"
+    "revision": "4d100cd06792fc00defa",
+    "url": "/scara/static/js/2.89e22a97.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/scara/static/js/2.b2ef4b2f.chunk.js.LICENSE"
+    "url": "/scara/static/js/2.89e22a97.chunk.js.LICENSE"
   },
   {
-    "revision": "9eeb36cb8b85539c62a5",
-    "url": "/scara/static/js/main.071a98a0.chunk.js"
+    "revision": "5a28e30ecab731934a22",
+    "url": "/scara/static/js/main.3286f7d8.chunk.js"
   },
   {
     "revision": "e4a6d87e476cd0a3dc6e",
@@ -214,5 +214,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9640c5cb38b5fd8d464b8ce0e595a1cb",
     "url": "/scara/static/media/0130_15578793_1285138484886958_1103544731450889802_n.9640c5cb.jpg"
+  },
+  {
+    "revision": "74b8e9033e440b2b7d46513fc4abf729",
+    "url": "/scara/static/media/18402279_1437491599651645_3253204915988598215_o.74b8e903.jpg"
   }
 ]);

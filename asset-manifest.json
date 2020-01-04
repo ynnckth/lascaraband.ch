@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/scara/static/css/main.2a9f36bd.chunk.css",
-    "main.js": "/scara/static/js/main.071a98a0.chunk.js",
-    "main.js.map": "/scara/static/js/main.071a98a0.chunk.js.map",
+    "main.css": "/scara/static/css/main.5b18d80e.chunk.css",
+    "main.js": "/scara/static/js/main.3286f7d8.chunk.js",
+    "main.js.map": "/scara/static/js/main.3286f7d8.chunk.js.map",
     "runtime-main.js": "/scara/static/js/runtime-main.260a6f02.js",
     "runtime-main.js.map": "/scara/static/js/runtime-main.260a6f02.js.map",
-    "static/js/2.b2ef4b2f.chunk.js": "/scara/static/js/2.b2ef4b2f.chunk.js",
-    "static/js/2.b2ef4b2f.chunk.js.map": "/scara/static/js/2.b2ef4b2f.chunk.js.map",
+    "static/js/2.89e22a97.chunk.js": "/scara/static/js/2.89e22a97.chunk.js",
+    "static/js/2.89e22a97.chunk.js.map": "/scara/static/js/2.89e22a97.chunk.js.map",
     "index.html": "/scara/index.html",
-    "precache-manifest.8ea379571d540c75437eeba8eb6f8fe7.js": "/scara/precache-manifest.8ea379571d540c75437eeba8eb6f8fe7.js",
+    "precache-manifest.7afdd1bd5ccff1f2ff1fc5fbe65ac54d.js": "/scara/precache-manifest.7afdd1bd5ccff1f2ff1fc5fbe65ac54d.js",
     "service-worker.js": "/scara/service-worker.js",
-    "static/css/main.2a9f36bd.chunk.css.map": "/scara/static/css/main.2a9f36bd.chunk.css.map",
-    "static/js/2.b2ef4b2f.chunk.js.LICENSE": "/scara/static/js/2.b2ef4b2f.chunk.js.LICENSE",
+    "static/css/main.5b18d80e.chunk.css.map": "/scara/static/css/main.5b18d80e.chunk.css.map",
+    "static/js/2.89e22a97.chunk.js.LICENSE": "/scara/static/js/2.89e22a97.chunk.js.LICENSE",
     "static/media/0010_photo_2020-01-04 16.33.49.jpg": "/scara/static/media/0010_photo_2020-01-04 16.33.49.8ad18cf5.jpg",
     "static/media/0015_photo_2020-01-04 16.05.25.jpg": "/scara/static/media/0015_photo_2020-01-04 16.05.25.388ee04d.jpg",
     "static/media/0020_70728892_2686701854730607_3442130633764110336_n.jpg": "/scara/static/media/0020_70728892_2686701854730607_3442130633764110336_n.c33de47f.jpg",
@@ -36,12 +36,13 @@
     "static/media/0115_18880269_1465192863548185_1516712394868295938_o.jpg": "/scara/static/media/0115_18880269_1465192863548185_1516712394868295938_o.9532c56a.jpg",
     "static/media/0120_18839518_1465192953548176_8948829694043055596_o.jpg": "/scara/static/media/0120_18839518_1465192953548176_8948829694043055596_o.6561ef58.jpg",
     "static/media/0125_18401860_1437491582984980_3184149238899024284_o.jpg": "/scara/static/media/0125_18401860_1437491582984980_3184149238899024284_o.6128feae.jpg",
-    "static/media/0130_15578793_1285138484886958_1103544731450889802_n.jpg": "/scara/static/media/0130_15578793_1285138484886958_1103544731450889802_n.9640c5cb.jpg"
+    "static/media/0130_15578793_1285138484886958_1103544731450889802_n.jpg": "/scara/static/media/0130_15578793_1285138484886958_1103544731450889802_n.9640c5cb.jpg",
+    "static/media/18402279_1437491599651645_3253204915988598215_o.jpg": "/scara/static/media/18402279_1437491599651645_3253204915988598215_o.74b8e903.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.260a6f02.js",
-    "static/js/2.b2ef4b2f.chunk.js",
-    "static/css/main.2a9f36bd.chunk.css",
-    "static/js/main.071a98a0.chunk.js"
+    "static/js/2.89e22a97.chunk.js",
+    "static/css/main.5b18d80e.chunk.css",
+    "static/js/main.3286f7d8.chunk.js"
   ]
 }
