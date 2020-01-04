@@ -1,9 +1,6 @@
 import React from 'react';
 import './Listen.css';
 
-// TODO:
-//  - embed bandcamp widget with single (as soon as released)
-//  - embed facebook videos
 
 const Listen: React.FC = () => {
   return (
