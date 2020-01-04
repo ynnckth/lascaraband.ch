@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
-import {HashRouter, Route} from 'react-router-dom';
+import {HashRouter, Route, Switch} from 'react-router-dom';
 import Home from './components/Home/Home';
 import Gigs from './components/Gigs/Gigs';
 import Listen from './components/Listen/Listen';
@@ -18,32 +18,33 @@ const App: React.FC = () => {
       <Header/>
       <Navbar/>
 
-      {/* TODO: fix show home if unknown route */}
       <div className="content">
         <HashRouter>
-          <Route path="/listen">
-            <Listen/>
-          </Route>
+          <Switch>
+            <Route path="/listen">
+              <Listen/>
+            </Route>
 
-          <Route path="/gigs">
-            <Gigs showPastGigs={true}/>
-          </Route>
+            <Route path="/gigs">
+              <Gigs showPastGigs={true}/>
+            </Route>
 
-          <Route path="/gallery">
-            <Gallery/>
-          </Route>
+            <Route path="/gallery">
+              <Gallery/>
+            </Route>
 
-          <Route path="/about">
-            <About/>
-          </Route>
+            <Route path="/about">
+              <About/>
+            </Route>
 
-          <Route path="/booking">
-            <Booking/>
-          </Route>
+            <Route path="/booking">
+              <Booking/>
+            </Route>
 
-          <Route path="/" exact>
-            <Home/>
-          </Route>
+            <Route path="/">
+              <Home/>
+            </Route>
+          </Switch>
         </HashRouter>
       </div>
 
