@@ -26,10 +26,11 @@
     -o-transition-duration: 0.3s;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 500px) {
     .thumb {
-        margin: 0 auto;
-        width: 50%;
+        max-width: 190px;
+        min-width: 100px;
+        width: 45%;
     }
     .thumb img {
         width: 100%;
