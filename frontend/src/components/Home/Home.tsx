@@ -11,6 +11,7 @@ const Home: React.FC = () => {
       <div className="instagram-feed">
         <div className="elfsight-app-9528aeaf-dd19-42fe-ace8-6e614897d4a7"/>
       </div>
+      <div className="instagram-patch"/>
     </div>
   );
 };

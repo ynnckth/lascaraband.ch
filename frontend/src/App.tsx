@@ -19,31 +19,33 @@ const App: React.FC = () => {
       <Navbar/>
 
       {/* TODO: fix show home if unknown route */}
-      <HashRouter>
-        <Route path="/listen">
-          <Listen/>
-        </Route>
+      <div className="content">
+        <HashRouter>
+          <Route path="/listen">
+            <Listen/>
+          </Route>
 
-        <Route path="/gigs">
-          <Gigs showPastGigs={true}/>
-        </Route>
+          <Route path="/gigs">
+            <Gigs showPastGigs={true}/>
+          </Route>
 
-        <Route path="/gallery">
-          <Gallery/>
-        </Route>
+          <Route path="/gallery">
+            <Gallery/>
+          </Route>
 
-        <Route path="/about">
-          <About/>
-        </Route>
+          <Route path="/about">
+            <About/>
+          </Route>
 
-        <Route path="/booking">
-          <Booking/>
-        </Route>
+          <Route path="/booking">
+            <Booking/>
+          </Route>
 
-        <Route path="/" exact>
-          <Home/>
-        </Route>
-      </HashRouter>
+          <Route path="/" exact>
+            <Home/>
+          </Route>
+        </HashRouter>
+      </div>
 
       <Footer/>
     </div>
