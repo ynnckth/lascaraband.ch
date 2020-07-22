@@ -14,7 +14,7 @@ const Gigs: React.FC<IProps> = (props: IProps) => {
       <h1>Upcoming gigs</h1>
       <ul>
         {
-          gigs.length > 0
+          upcomingGigs.length > 0
             ? upcomingGigs.map((gig, idx) =>
               <li key={`gig-${idx}`}>{`${gig.date} ${gig.description}`}</li>)
             : <li>Coming soon...</li>
