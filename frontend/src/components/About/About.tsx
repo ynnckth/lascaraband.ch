@@ -8,7 +8,7 @@ const About: React.FC = () => {
     <div className="about">
       <h1>About</h1>
       <p>La Scaraband was born in 2016 and consists of Leonardo Pedrocca on guitar, Jorge Oswald on guitar and bass,
-        Carolina Segui on clarinet, Ivan Garcia and Carlos Medina on percussion and Yannick Streit on drums.</p>
+        Carolina Segui on clarinet, Ivan Garcia and Carlos Medina on percussion, Yannick Streit on drums and Fabricio Bolla on saxophone and trombone.</p>
       <br/>
       <img src={aboutImage} className="about-image" alt="the band"/>
     </div>

@@ -7,14 +7,15 @@ const Listen: React.FC = () => {
     <div className="listen">
       <h1>Listen</h1>
 
-      <div className="fb-video-wrapper">
-        <iframe
-          src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsuperscaras%2Fvideos%2F657849404639648%2F&show_text=0&width=560"
-          className="fb-video"
-          title="fb-video"
-          scrolling="no" frameBorder="0">
-        </iframe>
-      </div>
+      <iframe
+        width="560" height="315"
+        src="https://www.youtube.com/embed/xvCgqfrsxNE"
+        frameBorder="0"
+        title="pegatrip-rad-fyah"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
+      </iframe>
+      <br/>
+      <span>La Scaraband - Pegatrip played at the <a href="https://radfyah.com/">Rad Fyah Studio</a></span>
     </div>
   );
 };

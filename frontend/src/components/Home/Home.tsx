@@ -13,7 +13,19 @@ const Home: React.FC = () => {
 
       <h1>News</h1>
 
-      <div className="fb-teaser-wrapper">
+      <div className="news-content">
+        <iframe
+          width="560" height="315"
+          src="https://www.youtube.com/embed/xvCgqfrsxNE"
+          frameBorder="0"
+          title="pegatrip-rad-fyah"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
+        </iframe>
+        <br/>
+        <span>Fresh from the oven! La Scaraband performing "Pegatrip" at the <a href="https://radfyah.com/">Rad Fyah Studio</a>!</span>
+      </div>
+
+      <div className="news-content video-wrapper">
         <iframe
           src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsuperscaras%2Fvideos%2F1760213807379421%2F&show_text=1&width=560"
           scrolling="no" frameBorder="0"
