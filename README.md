@@ -7,7 +7,7 @@ $ npm start
 ```
 
 ## Deployment
-Deploy app to [github pages](https://ynnckth.github.io/scara):
+Deploy app to [github pages](https://ynnckth.github.io/lascaraband.ch):
 ```
 $ cd frontend
 $ npm run deploy
